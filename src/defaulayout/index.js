@@ -1,7 +1,7 @@
 function Defaulayout() {
     return(
         <div>
-            le xuan duc
+          chuẩn bị thay đổi api ny. giờ tôi sẽ làm tế này
         </div>
     )
 }
